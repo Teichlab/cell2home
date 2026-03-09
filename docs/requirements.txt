@@ -1,2 +1,3 @@
 sphinx-rtd-theme
 nbsphinx
+sphinx-rtd-size
