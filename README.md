@@ -6,7 +6,7 @@ Cell2home is a tool to computationally infer cell-cell homing interactions and m
 
 ## Installation
 
-For now, the package needs to be installed from GitHub:
+For now, the package needs to be installed from GitHub (run time <5 minutes):
 
 ```bash
 git clone https://github.com/Teichlab/cell2home
@@ -16,7 +16,7 @@ pip install .
 
 ## Usage and Documentation
 
-Please refer to [ReadTheDocs](https://cell2home.readthedocs.io/en/latest/), which comes with a demo notebook and function docstrings.
+Please refer to [ReadTheDocs](https://cell2home.readthedocs.io/en/latest/), which comes with a demo notebook (run time <5 minutes) and function docstrings.
 
 ## Citation
 
